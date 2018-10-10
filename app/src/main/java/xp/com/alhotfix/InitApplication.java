@@ -29,7 +29,7 @@ public class InitApplication extends SophixApplication{
         initSophix();
     }
     private void initSophix() {
-        String appVersion = "1.0.3";
+        String appVersion = "1.0.2";
         try {
             appVersion = this.getPackageManager()
                     .getPackageInfo(this.getPackageName(), 0)
