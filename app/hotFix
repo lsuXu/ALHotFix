@@ -1,0 +1,8 @@
+signed
+    password :123456
+    Key
+        Alias :key0
+        Password :123456
+        Certificate
+            First and Last Name :HotFix
+
